@@ -150,3 +150,5 @@ R0820
 [7]:https://github.com/chrislgarry/Apollo-11/issues/159
 [8]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [9]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CONTRIBUTING.ko_kr.md

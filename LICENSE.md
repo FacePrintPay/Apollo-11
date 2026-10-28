@@ -17,3 +17,5 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 - Unless expressly stated otherwise, the person who identified the work makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
 
 - When using or citing the work, you should not imply endorsement by the author or the person who identified the work.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=LICENSE.md

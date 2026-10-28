@@ -140,3 +140,5 @@ Ralph R. Ragan    | 부감독<br>기계 연구소 | 1969년 3월 28일
 [ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
 [Luminary]:https://flat.badgen.net/github/milestones/chrislgarry/Apollo-11/2
 [LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.ko_kr.md

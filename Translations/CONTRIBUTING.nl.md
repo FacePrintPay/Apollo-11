@@ -176,3 +176,5 @@ Voordat je een PR maakt zorg er alsjeblieft voor dat je wijzigingen consistent z
 [8]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [9]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
 [10]:https://github.com/chrislgarry/Apollo-11/pull/316#pullrequestreview-102892741
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CONTRIBUTING.nl.md

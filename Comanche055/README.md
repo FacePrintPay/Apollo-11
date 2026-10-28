@@ -227,3 +227,5 @@ GAP-generated tables | 1517-1751
 [ALARM_AND_ABORT.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/ALARM_AND_ABORT.agc
 [UPDATE_PROGRAM.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/UPDATE_PROGRAM.agc
 [RT8_OP_CODES.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/RT8_OP_CODES.agc
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
